@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dumpkid
 - 👀 I’m interested in Coding and Networking
-- 🌱 I’m currently learning python, php, mikrotik
+- 🌱 I’m currently learning NodeJS, Vue, Nuxt, Python, PHP, Mikrotik
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
